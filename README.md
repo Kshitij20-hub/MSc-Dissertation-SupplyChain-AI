@@ -63,17 +63,17 @@ This project evidences disciplined **evidence synthesis**, **process mapping**, 
 
 ## Time & effort reality‑check
 
-The calendar window **29‑Jan → 19‑May 2024** spans ~16 weeks. The dissertation’s internal timeline summarised the work into ~8 phased blocks; the *progress log* shows the finer week‑by‑week effort and is consistent with a standard UK MSc spring project cadence. See: `docs/progress-log_2024-01-29_to_2024-05-19.md`. fileciteturn3file3turn3file1
+The calendar window **29‑Jan → 19‑May 2024** spans ~16 weeks. The dissertation’s internal timeline summarised the work into ~8 phased blocks; the *progress log* shows the finer week‑by‑week effort and is consistent with a standard UK MSc spring project cadence. See: `docs/progress-log_2024-01-29_to_2024-05-19.md`. 
 
 ![Effort chart](docs/effort_chart.png)
 
-> If you’re reviewing dates on GitHub: all files were uploaded in **Sept 2025** as a **portfolio reconstruction**; the academic artefacts themselves date to **May 2024**. See `docs/changelog.md`. fileciteturn3file3
+> If you’re reviewing dates on GitHub: all files were uploaded in **Sept 2025** as a **portfolio reconstruction**; the academic artefacts themselves date to **May 2024**. See `docs/changelog.md`. 
 
 ---
 
 ## What we reused from another README (structure only)
 
-This README borrows **structure ideas** from another student portfolio README—sections such as **Provenance & integrity, Time accounting, Reproducibility checklist, NHS relevance, Changelog and Licence**—but the content here reflects *this* AI/SCM dissertation. This helps reviewers quickly assess scope and credibility. fileciteturn3file2
+This README borrows **structure ideas** from another student portfolio README—sections such as **Provenance & integrity, Time accounting, Reproducibility checklist, NHS relevance, Changelog and Licence**—but the content here reflects *this* AI/SCM dissertation. This helps reviewers quickly assess scope and credibility. 
 
 ---
 
