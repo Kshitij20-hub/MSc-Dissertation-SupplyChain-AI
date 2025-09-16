@@ -15,4 +15,4 @@ Where raw artefacts (e.g., supervisor emails, intermediate notes) were private o
 - Third‑party figures remain the property of their owners; included here under fair use for academic demonstration.
 
 **Contact**  
-Kshitij Pandey • Email: kshitijp911@gmail.com • LinkedIn: https://www.linkedin.com/in/kshitij-pandey-20
+Kshitij Pandey • Email: kshitijpandeybpl@gmail.com • LinkedIn: https://www.linkedin.com/in/kshitij-pandey-20
