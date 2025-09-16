@@ -6,7 +6,7 @@
 **Project window:** **29‑Jan‑2024 → 19‑May‑2024** (≈16 weeks)  
 **Repo purpose:** Public, portfolio‑ready reconstruction that packages the dissertation, poster and a transparent progress log.
 
-> Working title in the submission: **“Impact of AI on supply chain integration to accelerate innovation of new projects development”.** fileciteturn3file3
+> Working title in the submission: **“Impact of AI on supply chain integration to accelerate innovation of new projects development”.**
 
 ---
 
@@ -27,13 +27,13 @@
 └── LICENSE
 ```
 
-**Integrity & reconstruction.** The work was completed during the dates above and **organised into this repository in Sept 2025** so that employers can review the artefacts easily. Where intermediate materials were private/unavailable, we reconstructed a faithful *progress log* from diary notes and the dissertation’s own timeline table. See `docs/assumptions_disclaimers.md`. fileciteturn3file3
+**Integrity & reconstruction.** The work was completed during the dates above and **organised into this repository in Sept 2025** so that employers can review the artefacts easily. Where intermediate materials were private/unavailable, we reconstructed a faithful *progress log* from diary notes and the dissertation’s own timeline table. See `docs/assumptions_disclaimers.md`.
 
 ---
 
 ## Abstract (one‑paragraph synopsis)
 
-The study analyses how **AI technologies (ML, CV, NLP, robotics)** influence key **SCM‑integration** activities—planning, inventory, quality and service—through an **interpretivist, inductive, exploratory case‑study** design using recent industry cases (e.g., Amazon, Unilever, ABB, Siemens). Findings indicate AI helps **balance inventory, enhance quality monitoring, speed decisions,** and support **predictive maintenance**, but adoption is constrained by **data quality/availability, integration complexity, skills gaps,** and **governance/privacy**. Recommendations emphasise **fit‑for‑purpose tooling, cross‑functional collaboration, agile pilots,** and **risk management**. fileciteturn3file3
+The study analyses how **AI technologies (ML, CV, NLP, robotics)** influence key **SCM‑integration** activities—planning, inventory, quality and service—through an **interpretivist, inductive, exploratory case‑study** design using recent industry cases (e.g., Amazon, Unilever, ABB, Siemens). Findings indicate AI helps **balance inventory, enhance quality monitoring, speed decisions,** and support **predictive maintenance**, but adoption is constrained by **data quality/availability, integration complexity, skills gaps,** and **governance/privacy**. Recommendations emphasise **fit‑for‑purpose tooling, cross‑functional collaboration, agile pilots,** and **risk management**.
 
 ---
 
@@ -43,7 +43,7 @@ The study analyses how **AI technologies (ML, CV, NLP, robotics)** influence key
 - **Approach:** *Inductive*  
 - **Design/Strategy:** *Exploratory case studies* (secondary data only)  
 - **Analysis:** *Thematic analysis* (Braun & Clarke six‑step)  
-- **Ethics:** No human subjects; secondary cases only. fileciteturn3file3
+- **Ethics:** No human subjects; secondary cases only.
 
 ---
 
@@ -51,7 +51,7 @@ The study analyses how **AI technologies (ML, CV, NLP, robotics)** influence key
 
 - **Integration wins:** demand forecasting, route optimisation, inventory right‑sizing, vision‑based QC, predictive servicing and smarter planning.  
 - **Constraints:** data readiness, IT/OT integration complexity, skills & change‑management gaps, security & privacy risks, ROI proof.  
-- **So what:** AI’s value arrives where *structured operational decisions* can use *rich data* and *tight feedback loops*; aim for **small pilots → scale**. fileciteturn3file3
+- **So what:** AI’s value arrives where *structured operational decisions* can use *rich data* and *tight feedback loops*; aim for **small pilots → scale**. 
 
 ---
 
